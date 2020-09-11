@@ -2,7 +2,7 @@ package programmers;
 
 import java.util.Stack;
 
-public class Solution60058 {	//2020 KAKAO BLIND RECRUITMENT > °ýÈ£ º¯È¯
+public class Solution60058 {	//2020 KAKAO BLIND RECRUITMENT > ê´„í˜¸ ë³€í™˜
 	public static void main(String[] args) {
         System.out.println(solution("(()())()"));
 	}

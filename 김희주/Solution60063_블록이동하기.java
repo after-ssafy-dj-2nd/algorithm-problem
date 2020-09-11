@@ -3,7 +3,7 @@ package programmers;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Solution60063 {	//2020 KAKAO BLIND RECRUITMENT > ºí·Ï ÀÌµ¿ÇÏ±â
+public class Solution60063 {	//2020 KAKAO BLIND RECRUITMENT > ë¸”ë¡ ì´ë™í•˜ê¸°
 	public static void main(String[] args) {
 		int[][] board = {{0, 0, 0, 1, 1},{0, 0, 0, 1, 0},{0, 1, 0, 1, 1},{1, 1, 0, 0, 1},{0, 0, 0, 0, 0}};
         System.out.println(solution(board));

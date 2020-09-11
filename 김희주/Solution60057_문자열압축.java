@@ -1,6 +1,6 @@
 package programmers;
 
-public class Solution60057 {	//2020 KAKAO BLIND RECRUITMENT > ¹®ÀÚ¿­ ¾ĞÃà
+public class Solution60057 {	//2020 KAKAO BLIND RECRUITMENT > ë¬¸ìì—´ ì••ì¶•
 	public static void main(String[] args) {
         System.out.println(solution("aabbaccc"));
 	}

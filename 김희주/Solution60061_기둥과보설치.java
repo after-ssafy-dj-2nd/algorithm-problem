@@ -2,7 +2,7 @@ package programmers;
 
 import java.util.Arrays;
 
-public class Solution60061 {	//2020 KAKAO BLIND RECRUITMENT > ±âµÕ°ú º¸ ¼³Ä¡
+public class Solution60061 {	//2020 KAKAO BLIND RECRUITMENT > ê¸°ë‘¥ê³¼ ë³´ ì„¤ì¹˜
 	public static void main(String[] args) {
 //		int[][] build_frame = {{1,0,0,1},{1,1,1,1},{2,1,0,1},{2,2,1,1},{5,0,0,1},{5,1,0,1},{4,2,1,1},{3,2,1,1}};
 		int[][] build_frame = {{0,0,0,1},{2,0,0,1},{4,0,0,1},{0,1,1,1},{1,1,1,1},{2,1,1,1},{3,1,1,1},{2,0,0,0},{1,1,1,0}, {2,2,0,1}};
@@ -23,7 +23,7 @@ public class Solution60061 {	//2020 KAKAO BLIND RECRUITMENT > ±âµÕ°ú º¸ ¼³Ä¡
 			int a = build_frame[i][2];
 			int b = build_frame[i][3];
 			
-			if(b==1) {	//¼³Ä¡
+			if(b==1) {	//ï¿½ï¿½Ä¡
 				if(a==0) {
 					if(canPillar(x,y)) {
 						map[x][y][0] = true;
@@ -35,7 +35,7 @@ public class Solution60061 {	//2020 KAKAO BLIND RECRUITMENT > ±âµÕ°ú º¸ ¼³Ä¡
 						cnt++;
 					}
 				}
-			}else {	//»èÁ¦
+			}else {	//ï¿½ï¿½ï¿½ï¿½
 				if(a==0)
 					map[x][y][0] = false;
 				else

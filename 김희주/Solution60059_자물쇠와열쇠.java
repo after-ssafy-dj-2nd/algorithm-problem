@@ -1,6 +1,6 @@
 package programmers;
 
-public class Solution60059 {	//2020 KAKAO BLIND RECRUITMENT > ÀÚ¹°¼è¿Í ¿­¼è
+public class Solution60059 {	//2020 KAKAO BLIND RECRUITMENT > ìë¬¼ì‡ ì™€ ì—´ì‡ 
 	public static void main(String[] args) {
 		int[][] key = {{0,0,0},{1,0,0},{0,1,1}};
 		int[][] lock = {{1,1,1},{1,1,0},{1,0,1}};
