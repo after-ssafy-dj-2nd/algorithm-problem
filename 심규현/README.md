@@ -17,4 +17,8 @@
 | 200910 | Programmers | 오픈채팅방(Lv.2)     | Javascript         |
 | 200910 | Programmers | 후보키(Lv.2)         | Python             |
 | 200910 | Programmers | 외벽 점검(Lv.3)      | Python             |
+| 201008 | Baekjoon    | 13460.구슬 탈출 2    | Python             |
+| 201009 | Baekjoon    | 3190.뱀              | Python             |
+| 201009 | Baekjoon    | 15685.드래곤 커브    | Python             |
+| 201009 | Baekjoon    | 19238.스마트 택시    | Python             |
 
