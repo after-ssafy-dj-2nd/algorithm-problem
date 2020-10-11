@@ -21,4 +21,6 @@
 | 201009 | Baekjoon    | 3190.뱀              | Python             |
 | 201009 | Baekjoon    | 15685.드래곤 커브    | Python             |
 | 201009 | Baekjoon    | 19238.스마트 택시    | Python             |
+| 201010 | Baekjoon    | 15684.사다리 조작    | Python             |
+| 201011 | Baekjoon    | 17825.주사위 윷놀이  | Python             |
 
